@@ -11,11 +11,6 @@
       "autoria": "Mestre Yoda"
     },
     {
-      "id": "5b8a",
-      "conteudo": "Na minha máquina funciona!",
-      "autoria": "Dev"
-    },
-    {
       "id": "68uy",
       "conteudo": "Esse é de laranja que parece de limão, mas tem gosto de tamarindo!",
       "autoria": "Chaves"
@@ -61,19 +56,14 @@
       "autoria": "Seu Madruga"
     },
     {
-      "id": "4d2e",
-      "conteudo": "Se eu for aí e achar, eu esfrego na sua cara!",
+      "id": "584a",
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev"
+    },
+    {
+      "id": "53b3",
+      "conteudo": "Na volta a gente compra! Mas não comprou!",
       "autoria": "Mãe"
-    },
-    {
-      "id": "81c2",
-      "conteudo": {},
-      "autoria": {}
-    },
-    {
-      "id": "547f",
-      "conteudo": "na minha maquina funciona!",
-      "autoria": "dev"
     }
   ]
 }
